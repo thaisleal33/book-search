@@ -20,7 +20,7 @@
 
 ## Sobre o app / About the app
 
-[PT-BR] - App simples para buscar livros. Busque pelo título do livro, autor ou palavras-chave. Neste projeto foram aplicados os conceitos básicos de componentização, rotas, utilização de frameworks e método de requisição GET (usando Google Books API).
+[PT-BR] - App simples para buscar livros. Busque pelo título do livro, autor ou palavras-chave. Neste projeto foram aplicados os conceitos básicos de componentização, rotas, utilização de frameworks e método de requisição GET para a busca dos livros (usando Google Books API).
 
 O código e a UI foram feitas inteiramente em inglês, buscando aperfeiçoar a desenvoltura de código e escrita para melhor contribuir em squads internacionais.
 
