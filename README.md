@@ -1,4 +1,4 @@
-# book-search
+# Book search
 
 [PT-BR] - Aplicação de estudo desenvolvida em React com o intuito de praticar e fixar conceitos web da tecnologia utilizada.
 
