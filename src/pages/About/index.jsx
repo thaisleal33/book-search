@@ -3,10 +3,6 @@ import React from 'react';
 import { Container, Row, Col, Button } from 'react-bootstrap';
 import { AboutContent, AboutWrapper, IconContainer, ReactIcon } from './styles';
 
-import { IconContext } from "react-icons";
-import { DiReact } from "react-icons/di";
-
-
 function About() {
   return (
     <>
