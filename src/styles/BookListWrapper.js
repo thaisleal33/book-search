@@ -21,5 +21,5 @@ gap: 10px;
 margin-top: 3rem;
 padding: 20px;
 border-radius: 10px;
-background: rgba(255, 255, 255, 0.11);
+background: rgba(255, 255, 255, 0.30);
 `;
