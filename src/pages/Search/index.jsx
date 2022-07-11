@@ -7,7 +7,7 @@ import { BookListWrapper } from '../../styles/BookListWrapper';
 function Search() {
     const [book, setBook] = useState("");
     const [result, setResult] = useState([]);
-    const [apiKey, setApiKey] = useState("AIzaSyCcXFVnBErlVWS-cbtjN4PA1r07c1Rvvb4");
+    const [apiKey, setApiKey] = useState("your+api+key");
 
     function handleChange(e) {
         const book = e.target.value;
