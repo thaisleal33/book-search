@@ -30,10 +30,3 @@ O código e a UI foram feitas inteiramente em inglês, buscando aperfeiçoar a d
 [EN] - Simple app to search for books. Search for books by title, author or keyword. This study app was developed with the intention to practice component building, routing, framework appliance and GET request method for book searching (using Google Books API). 
 
 Code & UI made in english for practicing and showcase purposes.
-
-
-## Screenshots
-
-![App Screenshot](https://github.com/thaisleal33/book-search/blob/main/src/images/layout1.jpg) 
-![App Screenshot](https://github.com/thaisleal33/book-search/blob/main/src/images/layout2.jpg) 
-![App Screenshot](https://github.com/thaisleal33/book-search/blob/main/src/images/layout3.jpg) 
